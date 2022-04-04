@@ -17,7 +17,8 @@ class SoftwareEngineer:
         print("Hit me up incase you think we can work togther")
     
     def interests(self):
-      self.activities = "I love cycling and music outside code")
+        work = "Programing and Coding"
+        print(f"I love cycling and music outside {work}")
 
 
 me = SoftwareEngineer()
