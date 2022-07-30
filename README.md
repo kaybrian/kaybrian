@@ -15,10 +15,12 @@ class SoftwareEngineer():
         print("Thanks for dropping by. I hope you find interest in my Work")
         print("By the way am open to sharing and learning from you.")
         print("Hit me up incase you think we can work togther")
+        
     
     def interests(self):
         work = "Software Development"
         print(f"I love cycling and music outside {work}")
+        print("Brian likes teaching Code")
 
 
 me = SoftwareEngineer()
