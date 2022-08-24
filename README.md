@@ -30,9 +30,6 @@ me.interests()
 ### Languages i use for programming
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaybrian&layout=compact&langs_count=8)](https://github.com/kaybrian/github-readme-stats)
 
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kaybrian&v=2 )
-
 ### visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kaybrian.kaybrian&left_color=green&right_color=red)
 
