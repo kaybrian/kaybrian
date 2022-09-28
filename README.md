@@ -33,6 +33,8 @@ me.interests()
 ### visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kaybrian.kaybrian&left_color=green&right_color=red)
 
+[![@kaybrian's Holopin board](https://holopin.io/api/user/board?user=kaybrian)](https://holopin.io/@kaybrian)
+
 <a href="https://github.com/kaybrian/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaybrian&theme=dark&show_icons=true&count_private=true “Kayongo’s GutHub Stats" />
 </a>
