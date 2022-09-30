@@ -36,6 +36,6 @@ me.interests()
 [![@kaybrian's Holopin board](https://holopin.io/api/user/board?user=kaybrian)](https://holopin.io/@kaybrian)
 
 <a href="https://github.com/kaybrian/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaybrian&theme=dark&show_icons=true&count_private=true “Kayongo’s GutHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaybrian&theme=dark&show_icons=true&count_private=true" “Kayongo’s GutHub Stats" />
 </a>
 
