@@ -35,6 +35,8 @@ me.interests()
 
 [![@kaybrian's Holopin board](https://holopin.io/api/user/board?user=kaybrian)](https://holopin.io/@kaybrian)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=kaybrian&theme=algolia&hide_border=false)
+
 <a href="https://github.com/kaybrian/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaybrian&theme=dark&show_icons=true&count_private=true" “Kayongo’s GutHub Stats" />
 </a>
