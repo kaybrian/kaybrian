@@ -33,7 +33,7 @@ me.interests()
 ### visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kaybrian.kaybrian&left_color=green&right_color=red)
 
-[![@kaybrian's Holopin board](https://holopin.io/api/user/board?user=kaybrian)](https://holopin.io/@kaybrian)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kaybrian&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaybrian&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
