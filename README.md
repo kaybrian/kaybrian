@@ -41,3 +41,5 @@ me.interests()
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaybrian&theme=dark&show_icons=true&count_private=true" “Kayongo’s GutHub Stats" />
 </a>
 
+[![@kaybrian's Holopin board](https://holopin.me/kaybrian)](https://holopin.io/@kaybrian)
+
