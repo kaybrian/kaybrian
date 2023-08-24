@@ -1,39 +1,51 @@
 ### Hi there 👋
 
-```python
+```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class SoftwareEngineer():
+class PyMaestro():
 
     def __init__(self):
         self.name = "Kayongo Johnson Brian"
-        self.role = "Software Engineer "
-        self.language_spoken = ["English", "en_US"]
+        self.title = "🚀 Full Stack Wizard | Python Fanatic 🐍"
+        self.languages = ["Python", "JavaScript", "HTML", "CSS"]
+        self.interests = ["Web & Mobile Sorcery 📱", "AI Enchantments 🤖", "Pixel Potions ✨"]
 
-    def say_hi(self):
-        print("Thanks for dropping by. I hope you find interest in my Work")
-        print("By the way am open to sharing and learning from you.")
-        print("Hit me up incase you think we can work togther")
-        
-    
-    def interests(self):
-        work = "Software Development"
-        print(f"I love cycling and music outside {work}")
-        print("Brian likes teaching Code")
+    def summon_magic(self):
+        print("🪄 Greetings, fellow codemancer!")
+        print("From the realm of 0s and 1s, I conjure digital wonders.")
+        print("Unveiling a world where imagination meets reality, pixel by pixel, code by code.")
 
+    def enchant_with_python(self):
+        print("🔮 Python isn't just a language; it's pure enchantment!")
+        print("Summoning bytes of wisdom to create backend symphonies and web spells.")
+        print("Turn your visions into interactive experiences with a sprinkle of Python magic.")
 
-me = SoftwareEngineer()
-me.say_hi()
-me.interests()
+    def weave_collaboration_spells(self):
+        print("🌀 Collaboration, where dreams take shape!")
+        print("Join me in coding quests, where challenges are met with creativity.")
+        print("Together, we'll wield technology's wand to craft masterpieces that amaze!")
+
+# An artistic byte code representation of a computer (a simple example)
+computer_bytecode = b'\x01\x02\x03\x04\x05\x06\x07\x08'
+
+# Creating our PyMaestro instance and invoking the spells
+py_maestro = PyMaestro()
+py_maestro.summon_magic()
+print("\n")
+py_maestro.enchant_with_python()
+print("\n")
+py_maestro.weave_collaboration_spells()
+
+# Display the artistic byte code representation of a computer
+print("\n🖥️ Behold the magic of bytes:")
+print(computer_bytecode)
+
 ```
 ### Languages i use for programming
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaybrian&layout=compact&langs_count=8)](https://github.com/kaybrian/github-readme-stats)
 
-### visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kaybrian.kaybrian&left_color=green&right_color=red)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kaybrian&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaybrian&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
