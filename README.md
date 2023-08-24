@@ -43,9 +43,6 @@ print("\n🖥️ Behold the magic of bytes:")
 print(computer_bytecode)
 
 ```
-### Languages i use for programming
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaybrian&layout=compact&langs_count=8)](https://github.com/kaybrian/github-readme-stats)
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaybrian&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
