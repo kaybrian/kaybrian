@@ -57,3 +57,4 @@ print(computer_bytecode)
 
 [![@kaybrian's Holopin board](https://holopin.me/kaybrian)](https://holopin.io/@kaybrian)
 
+[![wakatime](https://wakatime.com/badge/user/27b84726-ae0d-450b-8469-ce080ab903c4.svg)](https://wakatime.com/@27b84726-ae0d-450b-8469-ce080ab903c4)
