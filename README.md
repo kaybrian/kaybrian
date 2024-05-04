@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi there! 👋
 
 # PyMaestro
 
 ## Introduction
 Welcome to the realm of PyMaestro, where digital wonders are conjured, and code meets magic!
+
+I am an aspiring software engineering leader from Uganda, pursuing a Bachelor of Software Engineering at African Leadership University Rwanda. I am actively involved in community-building and learning initiatives, organizing events, fostering collaboration as a Python Kigali Community Organizer, and encouraging innovation as ALU's Robotics Club President.
 
 ## Overview
 PyMaestro is a Python class representing a skilled magician of the digital age. With a blend of creativity and technical prowess, PyMaestro harnesses the power of Python to create enchanting experiences.
@@ -27,9 +29,11 @@ Python isn't just a language; it's pure enchantment! Summon bytes of wisdom to c
 ### `weave_collaboration_spells()`
 Join forces in coding quests, where challenges are met with creativity. Together, wield technology's wand to craft masterpieces that amaze!
 
+## Background and Aspirations
+I aim to utilize A.I. technologies to alleviate healthcare challenges in Africa, driven by a passion for innovation and healthcare. As a future leader in policy-making and global health, my mission is to reduce the burden on Africa's healthcare systems and pave the way for a healthier future for all.
+
 ## Byte Code Representation
 An artistic byte code representation of a computer is displayed below.
-
 
 ## Invocation
 ```python
@@ -44,7 +48,7 @@ py_maestro.weave_collaboration_spells()
 # Display the artistic byte code representation of a computer
 print("\n🖥️ Behold the magic of bytes:")
 print(computer_bytecode)
-```
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaybrian&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
