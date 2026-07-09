@@ -1,25 +1,36 @@
-### Hi there! 👋
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/neural-banner-dark.svg">
+    <img alt="Kayongo Johnson Brian — Machine Learning Engineer" src="assets/neural-banner-light.svg" width="100%">
+  </picture>
+</div>
 
-## Attributes
-- **Name**: Kayongo Johnson Brian
-- **Title**: 🚀 Full Stack Wizard | Python Fanatic 🐍 | Machine Learning Engineer 
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Interests**: 
-  - Web & Mobile Sorcery 📱
-  - AI Enchantments 🤖
-  - Pixel Potions ✨
+```python
+class KayongoBrian(Agent):
+    """Machine learning engineer. Trains things until they work."""
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaybrian&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+    observation_space = ["computer vision", "deep RL", "real-world data"]
+    action_space      = ["train", "ship", "teach", "repeat"]
+    reward            = "models that actually make it to production"
 
-<a href="https://github.com/kaybrian/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaybrian&theme=dark&show_icons=true&count_private=true" “Kayongo’s GutHub Stats" />
-</a>
+    def policy(self, state):
+        return max(self.ideas, key=lambda a: a.q_value)   # mostly greedy
+```
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/atari-breakout-dark.svg">
+    <img alt="A DQN agent playing Atari Breakout" src="assets/atari-breakout-light.svg" width="640">
+  </picture>
+</div>
 
- [![Kay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaybrian&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/kaybrian/github-readme-activity-graph)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/policy-bars-dark.svg">
+    <img alt="Skills as action probabilities from a policy network" src="assets/policy-bars-light.svg" width="640">
+  </picture>
+</div>
 
-[![@kaybrian's Holopin board](https://holopin.me/kaybrian)](https://holopin.io/@kaybrian)
-
-[![wakatime](https://wakatime.com/badge/user/27b84726-ae0d-450b-8469-ce080ab903c4.svg)](https://wakatime.com/@27b84726-ae0d-450b-8469-ce080ab903c4)
+<div align="center">
+  <sub><code>while alive: explore(); exploit(); log_everything()</code></sub>
+</div>
